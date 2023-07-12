@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/charugoel204" target="blank"><img src="https://img.shields.io/twitter/follow/charugoel204?logo=twitter&style=for-the-badge" alt="charugoel204" /></a> </p>
 
-- 🔭 I’m currently working on **HTML / CSS**
+- 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML, CSS , Python**
+- 💬 Ask me about **HTML, CSS , Python, Javascript, C++, Java**
 
-- 📫 How to reach me **charu2020csai078@abesit.edu.in**
+- 📫 How to reach me **charugoel204@gmail.com**
 
 - ⚡ Fun fact **I think I m funny and do my work with full energy and enthusiasm**
 
